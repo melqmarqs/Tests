@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Melq\\Desktop\\Projetos\\Tests\\C#\\SlidingWindowApp\\SlidingWindowApp.csproj",
+      "projectUniqueName": "C:\\Users\\Melq\\Desktop\\Projetos\\Tests\\C#\\SlidingWindowApp\\SlidingWindowApp.csproj",
       "projectName": "SlidingWindowApp",
-      "projectPath": "c:\\Users\\Melq\\Desktop\\Projetos\\Tests\\C#\\SlidingWindowApp\\SlidingWindowApp.csproj",
+      "projectPath": "C:\\Users\\Melq\\Desktop\\Projetos\\Tests\\C#\\SlidingWindowApp\\SlidingWindowApp.csproj",
       "packagesPath": "C:\\Users\\Melq\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Melq\\Desktop\\Projetos\\Tests\\C#\\SlidingWindowApp\\obj\\",
+      "outputPath": "C:\\Users\\Melq\\Desktop\\Projetos\\Tests\\C#\\SlidingWindowApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

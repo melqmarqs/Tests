@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SlidingWindowApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99d5a1b561fb83b5fd608277c0553c766c1e3deb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72ea2c47e92bf41191c27465bda909305d21e21a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SlidingWindowApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SlidingWindowApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
